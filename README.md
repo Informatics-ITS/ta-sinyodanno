@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Danno Denis Dhaifullah
+**NRP**: 5025211027  
+**Judul TA**: Pendekatan Supply Selection Method yang Dimodifikasi untuk Mencari Initial Basic Feasible Solution pada Transportation Problem  
+**Dosen Pembimbing**: Dr. Bilqis Amaliah, S.Kom., M.Eng.  
+**Dosen Ko-pembimbing**: Ilham Gurat Adillion, S.Kom., M.Eng.
 
 ---
 
