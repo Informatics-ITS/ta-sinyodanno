@@ -3,7 +3,7 @@
 **Nama Mahasiswa**: Danno Denis Dhaifullah   
 **NRP**: 5025211027  
 **Judul TA**: Pendekatan Supply Selection Method yang Dimodifikasi untuk Mencari Initial Basic Feasible Solution pada Transportation Problem  
-**Dosen Pembimbing**: Dr. Bilqis Amaliah, S.Kom., M.Eng.  
+**Dosen Pembimbing**: Dr. Bilqis Amaliah, S.Kom., M.Kom.  
 **Dosen Ko-pembimbing**: Ilham Gurat Adillion, S.Kom., M.Eng.
 
 ---
