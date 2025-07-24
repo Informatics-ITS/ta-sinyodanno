@@ -22,9 +22,8 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 
 ### Prasyarat  
 - Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
+  - C
+  - .txt (Input file)
   - [Lainnya...]
 
 ### Langkah-langkah  
@@ -71,5 +70,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: dannodan81@gmail.com
+- Pembimbing Utama: bamaliah@gmail.com
